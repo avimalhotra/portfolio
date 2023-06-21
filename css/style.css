@@ -111,10 +111,4 @@ h2{ font-size: 50px;}
 .sep{ width: 14px; height: 62px; background: #dcdcde; margin: 0 40px;}
 .exp{ margin: 50px 0;}
 
-
-/* progress::-webkit-progress-bar {background-color: black; width: 100%;}
-progress {background-color: black;}
-
-progress::-webkit-progress-value {background-color: red !important;}
-progress::-moz-progress-bar {background-color: red !important;}
-progress {color: green;} */
+footer{ background: #fff; color: #666; text-align: center; padding: 2rem 0;}
